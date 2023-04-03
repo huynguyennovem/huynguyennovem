@@ -4,5 +4,3 @@
 - 🔭 I’m currently working as Open Source Engineer (Flutter)
 - 👯 I’m looking to collaborate on Open-Source community
 - 📫 How to reach me: huynguyennovem@gmail.com
-
-![huynguyennovem's GitHub stats](https://github-readme-stats.vercel.app/api?username=huynguyennovem&show_icons=true)
