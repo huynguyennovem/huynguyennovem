@@ -1,5 +1,6 @@
 ### Hi there 👋
-![android 2](https://user-images.githubusercontent.com/29337364/133871689-7ae6aef6-2f74-404e-a787-ff58d814b839.gif)
+
+<img width=200 src="https://github.com/huynguyennovem/huynguyennovem/assets/29337364/eaa747eb-c59e-46e7-9a88-82d74b885005"/>
 
 🔭 I’m currently working as Open Source Engineer (Flutter). Alongside my technical work, I have a passion for open-source projects and sharing knowledge through writing blog posts.
 
