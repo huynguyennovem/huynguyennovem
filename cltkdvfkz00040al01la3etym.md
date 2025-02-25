@@ -13,7 +13,7 @@ tags: tutorial, flutter, engine
 
 Flutter empowers developers to dive deeper into the framework by compiling its engine locally. This process not only enables customization but also facilitates contributions to the open-source community. In this blog post, I will walk you through a step-by-step guide to preparing your development environment and compiling the Flutter engine locally.
 
-### Prepare environment
+## Prepare environment
 
 The first step is to set up your development environment. Follow these steps to ensure you have all the necessary dependencies installed:
 
@@ -96,7 +96,7 @@ From github.com:flutter/engine
 Already up to date.
 ```
 
-### Compile engine
+## Compile engine
 
 Once you have set up your environment, you can proceed with compiling the Flutter engine.
 
@@ -217,7 +217,7 @@ c Clear the screen
 q Quit (terminate the application on the device).
 ```
 
-### Troubleshoot
+## Troubleshoot
 
 1. You may encounter `Unexpected Kernel Format Version 106` exception:
     
