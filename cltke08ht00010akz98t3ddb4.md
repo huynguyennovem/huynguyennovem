@@ -15,7 +15,7 @@ Welcome back to the second part of the series on compiling the Flutter engine lo
 
 The example I will use in this article: [https://github.com/flutter/flutter/issues/130476](https://github.com/flutter/flutter/issues/130476)
 
-### Issue analysis
+## Issue analysis
 
 * The bug doesn't occur on stable `3.10.6` but on master `3.13.0-3.0.pre.21` (as OP reported). The current master is `3.13.0-7.0.pre.57` (the released version I have on my machine now) and the issue is already fixed on this version.
     
@@ -36,6 +36,8 @@ The example I will use in this article: [https://github.com/flutter/flutter/issu
 > engine output X = 3.13.0-3.0.pre.21 + bf6d4bfe27cca6e6189382d17e5d371162492a27).
 
 Let's go through the steps below section by section. The first section is intended to build the engine at a specific released version. But if you only need to build engine with fix (the final goal), you can skip the 1st section and go to 2nd section.
+
+## Build engine
 
 ### 1\. Build engine on a specific released version
 
@@ -207,7 +209,7 @@ The Flutter DevTools debugger and profiler on iPhone is available at: http://127
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1710006944237/81c2317b-3e66-494d-9c60-9213d13d337b.webp align="center")
 
-### Troubleshoot
+## Troubleshoot
 
 *1\. Can not checkout specific engine revision*
 
@@ -302,7 +304,7 @@ ninja: Entering directory `out/ios_debug_unopt'
 [1639/1639] STAMP obj/default.stamp
 ```
 
-### Conclusion
+## Conclusion
 
 Congratulations! You've now mastered the art of compiling the Flutter engine locally on specific versions and applying fixes. Armed with this knowledge, you can confidently tackle various development scenarios and verify bug fixes without the need to upgrade to the latest SDK version.
 
