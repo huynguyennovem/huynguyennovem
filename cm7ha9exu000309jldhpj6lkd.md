@@ -1,8 +1,10 @@
 ---
 title: "Compiling Flutter Engine Locally - What changes after monorepo (Part IV)"
+seoTitle: "Compiling Flutter Engine Locally"
 datePublished: Sun Feb 23 2025 07:04:06 GMT+0000 (Coordinated Universal Time)
 cuid: cm7ha9exu000309jldhpj6lkd
 slug: compiling-flutter-engine-locally-part-iv
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1740543867115/58712380-f0eb-44ed-99d1-80dd839deb76.webp
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1740294070058/3fb75603-a2c6-44bb-8673-7a77b5a1627a.jpeg
 tags: flutter
 
