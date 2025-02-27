@@ -52,7 +52,7 @@ solutions = [
 Run the following command to fetch dependencies:
 
 ```console
-gclient sync
+gclient sync -D
 ```
 
 2. ## Compiling engine
