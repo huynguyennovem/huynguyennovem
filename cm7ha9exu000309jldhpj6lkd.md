@@ -92,6 +92,12 @@ gclient sync -D
     Building can take a long time, so grab a coffee or take a break!
     
 
+```console
+➜  src git:(master) ✗ ninja -C out/host_debug_unopt
+ninja: Entering directory `out/host_debug_unopt'
+[8308/8308] ACTION //flutter/lib/snapshot:create_macos_gen_snapshots(//build/toolchain/mac:clang_x64)
+```
+
 ```bash
   src git:(master) ✗ ninja -C out/android_debug_unopt_arm64
 ninja: Entering directory `out/android_debug_unopt_arm64'
