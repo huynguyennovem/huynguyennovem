@@ -169,6 +169,8 @@ export PATH=$HOME/flutter/engine/src/flutter/third_party/depot_tools/ninja:$PATH
 export PATH=$HOME/flutter/engine/src/flutter/third_party/ninja:$PATH
 ```
 
+Update: This issue (\[[163487](https://github.com/flutter/flutter/issues/163487)\]([https://github.com/flutter/flutter/issues/163487](https://github.com/flutter/flutter/issues/163487))) has been fixed, we don’t need this workaround anymore, just keep your path as is.
+
 Check out my related articles for compiling Flutter engine series:
 
 [https://huynq.dev/compiling-flutter-engine-locally-part-i](https://huynq.dev/compiling-flutter-engine-locally-part-i)
