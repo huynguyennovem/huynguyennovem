@@ -4,7 +4,7 @@ seoTitle: "11 manual tests before publishing your Flutter app"
 datePublished: Thu Aug 07 2025 04:28:05 GMT+0000 (Coordinated Universal Time)
 cuid: cme0wcc19001e02js56qpgq4a
 slug: 11-manual-tests-before-publishing-your-flutter-app
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1761800015699/3d024c5f-31e7-404d-86c1-e2996d522d1a.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1761800240281/578b3ea9-6fcf-4cc4-8924-6d4d5d01cc08.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1754540800867/cbe3282b-f86b-4103-8e1e-d051472b7dbc.png
 tags: app-development, flutter, testing, publishing
 
