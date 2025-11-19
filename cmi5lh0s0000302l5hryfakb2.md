@@ -45,7 +45,7 @@ Material is more than just a theme - it’s a milestone in unifying design langu
 
 This was the core of the talk: an inside look at the **“Decoupling Design in Flutter”** project currently being started and actively worked on by Flutter team.
 
-### A fun [demo](https://df2025demo.codemagic.app) showing what built-in design systems in Flutter look like:
+A fun [demo](https://df2025demo.codemagic.app) showing what built-in design systems in Flutter look like:
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1763528217042/7fc58cf8-3aaf-48e8-9a16-98b7a7f80957.gif align="center")
 
