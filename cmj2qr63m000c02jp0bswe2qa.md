@@ -240,7 +240,7 @@ The solution is to use a notifier, add it to repaint listener above, and trigger
 
 ## Steps to fix
 
-* create a notifier:
+* Create a notifier:
     
 
 ```dart
