@@ -15,7 +15,7 @@ I’m currently working as Flutter open-source engineer at [Codemagic](https://c
 So far, I’ve had [**41 PRs merged**](https://github.com/flutter/flutter/pulls?q=is%3Apr+author%3Ahuycozy+is%3Aclosed) into the Flutter repository.
 
 Today, I want to share the journey of fixing a Flutter issue that stayed open for nearly **6 years**:  
-👉 Issue [**#59143**](https://github.com/flutter/flutter/issues/59143) - *“****TabBar.image does not render at initialIndex for the first time****”*  
+👉 Issue [**#59143**](https://github.com/flutter/flutter/issues/59143) - *“****TabBar.image does not render at initialIndex for the first time****”*
 
 In this article, I’ll walk through:
 
@@ -372,13 +372,15 @@ Run the test (also existing tests to make sure your fix doesn't introduce and re
 
 # **Submitting the fix**
 
-### **1\. Create a branch**
+1. ### **Create a branch**
+    
 
 ```bash
 git checkout -b fix/tabbar-image-repaint
 ```
 
-2\. Commit & push
+2. ### Commit & push
+    
 
 ```bash
 git add .
@@ -387,6 +389,9 @@ git push origin fix/tabbar-image-repaint
 ```
 
 GitHub will automatically prompt you to open a PR.
+
+3. ### Filling PR template
+    
 
 You need to follow PR template, fill up all the information so that reviewers can understand your fix better. Make sure you read the checklist too. Once you have completed filling PR description, just click the green button at the bottom to create the PR it is usually in draft state. I also prefer it as I will wait CI check to complete before marking it ready for review.
 
@@ -403,7 +408,7 @@ You need to follow PR template, fill up all the information so that reviewers ca
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1765534007463/20bd8cae-eac3-4872-a0f6-cddbe6d34182.png align="center")
 
-### Solve CI tests
+# Solve CI tests
 
 You may encounter failed tests from CI checks:
 
