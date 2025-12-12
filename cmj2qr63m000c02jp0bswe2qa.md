@@ -14,7 +14,7 @@ Hi, I’m Huy, GitHub handle [@huycozy](https://github.com/huycozy).
 I’m currently working as Flutter open-source engineer at [Codemagic](https://codemagic.io).  
 So far, I’ve had [**41 PRs merged**](https://github.com/flutter/flutter/pulls?q=is%3Apr+author%3Ahuycozy+is%3Aclosed) into the Flutter repository.
 
-Today, I want to share the journey of fixing a Flutter issue that stayed open for nearly **6 years**:  
+Today, I want to share the journey of fixing a Flutter issue that stayed open for nearly 6 years:  
 👉 Issue [**#59143**](https://github.com/flutter/flutter/issues/59143) - *“****TabBar.image does not render at initialIndex for the first time****”*
 
 In this article, I’ll walk through:
