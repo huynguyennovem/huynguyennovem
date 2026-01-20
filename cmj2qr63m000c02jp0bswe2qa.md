@@ -435,6 +435,8 @@ Once you push the commit, CI tasks will re-run automatically. Now just need to w
 
 It’s ready to get reviews from others. In the reviewers box, it will suggest some reviewers who have usually contributed to the changed files before.
 
-…&lt;to-be-continued&gt;
+After a few days, I got the first review from a maintainer.
 
-(I will update the article later once the PR gets reviews and is merged)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1768880607251/d48e0393-bd73-44cf-a0f4-0f6e5ae899b6.png align="center")
+
+It's just a small comment, asking me to add documentation explaining a bit. So I added it and submitted the PR again. Since the reviewer approved the PR, I added `autosubmit` label myself to let CI run one last time and then it got merged!
